@@ -6,6 +6,10 @@ Each video in the series has its own branch so if you have not started from the 
 
 This is the branch for the completed code for the 7th video on MapKit we will be working on the first or opening tab where I will show you how you can ask for permission and if granted, show the users's location on the map.  We will also create a new service class that will manage this authorization and guide the user to enabling it if users somehow deny it.
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=xIU0PtHiwtg
+" target="_blank"><img src="http://img.youtube.com/vi/xIU0PtHiwtg/0.jpg" 
+alt="UserLocartion and LocatrionManager" width="480" height="360" border="1" /></a>
+
 If you want to support my work, you can - </br>
 
 <a href='https://ko-fi.com/Z8Z22WRVG' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
