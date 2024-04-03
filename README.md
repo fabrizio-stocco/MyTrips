@@ -6,8 +6,8 @@ Each video in the series has its own branch so if you have not started from the 
 
 This is the branch for the completed code for the 8th video on MapKit we will be adding search capabilities to the TripMaps screen and modify the LocationDetailsView to accommodate changes.  We will also be adding an Open In Maps button to the detail view.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=]F-H1CQAWQSU
-" target="_blank"><img src="http://img.youtube.com/vi/]F-H1CQAWQSU/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=F-H1CQAWQSU
+" target="_blank"><img src="http://img.youtube.com/vi/F-H1CQAWQSU/0.jpg" 
 alt="UserLocation Search and Open in Maps" width="480" height="360" border="1" /></a>
 
 If you want to support my work, you can - </br>
